@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74805a22-3b80-4440-b649-83c87b3bbc88" name="Changes" comment="gitignore">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sugo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/accounts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/apkdetails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/bugdescriptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/bugreportgenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/cliconstants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/devicedetails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/features/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/features/screenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/features/textinput.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/gocli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/utils/checks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/utils/chromeprofile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/utils/commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/utils/display.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/utils/filehandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/utils/network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/versionmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sugo/webparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+  </component>
+</project>
